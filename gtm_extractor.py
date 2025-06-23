@@ -38,7 +38,7 @@ def guardar_como_json(data, filename="gtm_extracted.json"):
     print(f"📁 Archivo guardado como {filename}")
 
 def main():
-    container_id = "GTM-TZ3ZCDT"  # reemplázalo por un contenedor real
+    container_id = "GTM-XXXXXX"  # reemplázalo por un contenedor real
     js_code = fetch_gtm_script(container_id)
     
     print("🔍 Buscando objetos tipo JSON...")
