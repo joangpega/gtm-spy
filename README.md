@@ -24,5 +24,21 @@ El script analiza el HTML de la página para localizar cualquier ID de Google Ta
 
 Generación del JSON:
 
-El script guarda los datos extraídos en un archivo .json local. Este archivo será necesario para el paso 2, donde puedes subirlo a al viewer_plus.html.
+El script guarda los datos extraídos en un archivo .json local. 
+
+<img width="516" height="179" alt="Code 2025-07-13 19 15 02" src="https://github.com/user-attachments/assets/68792d40-cc23-444e-86d6-bb4f43508fd1" />
+
+Este archivo será necesario para el paso 2, donde puedes subirlo a al viewer_plus.html.
+
+Ya en el viewer_plus.html, subimos el JSON: 
+
+<img width="1170" height="538" alt="image" src="https://github.com/user-attachments/assets/b01b115f-c31e-4f33-8723-796d802e9486" />
+
+Clicamos en Analizar JSON, y tendremos el resultado. 
+
+<img width="1180" height="725" alt="image" src="https://github.com/user-attachments/assets/99012536-99e0-4b43-bdf2-c367009f5ce9" />
+
+
+
+
 
